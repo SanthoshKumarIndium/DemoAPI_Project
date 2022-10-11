@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4b98b0b-2754-47bb-9733-246fefa4b6ac</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>99dea65c-79d2-4d35-b622-d5b40889bd75</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>99dea65c-79d2-4d35-b622-d5b40889bd75</id>
+      <masked>false</masked>
+      <name>passName</name>
+   </variable>
+</TestCaseEntity>
